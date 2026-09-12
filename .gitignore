@@ -1,0 +1,7 @@
+
+# Local/editor junk
+.DS_Store
+**/.DS_Store
+.vscode/
+.gitignore.save
+*.twbr
